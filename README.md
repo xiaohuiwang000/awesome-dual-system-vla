@@ -1,6 +1,6 @@
 # Awesome-Dual-System-VLA
 
-To address the challenges in vision-language-action (VLA) models, such as the difficulty of achieving efficient real-time performance, the high cost of pre-training, and the complexity of end-to-end fine-tuning on embodied data due to domain shift and catastrophic forgetting, Dual-System VLAs were introduced. 
+To address the challenges in vision-language-action (VLA) models, such as the difficulty of achieving efficient real-time performance, the high cost of pre-training, and the complexity of end-to-end fine-tuning on embodied data due to domain shift and catastrophic forgetting, Dual-System VLA models were introduced. 
 
 The development and architectural details of Dual-System VLA models are discussed in the [paper](https://arxiv.org/abs/2505.03912).
 
