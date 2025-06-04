@@ -7,6 +7,37 @@ The development and architectural details of Dual-System VLA models are discusse
 This repository will be continuously updated, and we warmly welcome contributions from the community. If you have papers, projects, or resources that are not yet included, please feel free to submit them via a pull request or open an issue for discussion.
 
 
+## Current Results
+
+### [CALVIN](https://arxiv.org/abs/2112.03227) ABC→D
+
+| Method    | 1 | 2 | 3 | 4 | 5 | Avg. Len. |
+|-----------|:------:|:------:|:------:|:------:|:------:|:-------:|
+| _Single-System_ |
+| [OpenVLA](https://arxiv.org/abs/2406.09246)   | 91.3 | 77.8 | 62.0 | 52.1 | 43.5 | 3.27  |
+| [UniVLA](https://www.arxiv.org/abs/2505.06111)    | 95.5 | 85.8 | 75.4 | 66.9 | 56.5 | 3.80  |
+| [Seer](https://arxiv.org/abs/2412.15109)      | 94.4 | 87.2 | 79.9 | 72.2 | 64.3 | 3.98  |
+| _Dual-System_ |
+| [LCB](https://arxiv.org/abs/2405.04798)           | 73.6 | 50.2 | 28.5 | 16.0 | 9.9  | 1.78   |
+| [Robodual](https://arxiv.org/abs/2410.08001)      | 94.4 | 82.7 | 72.1 | 62.4 | 54.4 | 3.66   |
+| [OpenHelix](https://arxiv.org/abs/2505.03912)  | 97.1 | 91.4 | 82.8 | 72.6 | 64.1 | **4.08** |
+
+### [LIBERO](https://arxiv.org/abs/2306.03310)
+
+| Method         |LIBERO-Spatial | LIBERO-Object | LIBERO-Goal | LIBERO-Long | Avg. |
+|----------------|:--------------:|:--------------:|:------------:|:------------:|:----:|
+| _Single-System_ |
+| [OpenVLA](https://arxiv.org/abs/2406.09246)        |     84.7       |     88.4       |     79.2     |     53.7     | 76.5 |
+| [π<sub>0</sub>](https://arxiv.org/abs/2410.24164)             |     96.8       |     98.8       |     95.8     |     85.2     | 94.2 |
+| [OpenVLA-OFT](https://arxiv.org/abs/2502.19645)    |     97.6       |     98.4       |     97.9     |     94.5     | 97.1 |
+| [UniVLA](https://www.arxiv.org/abs/2505.06111)         |     96.5       |     96.8       |     95.6     |     92.0     | 95.2 |
+| [Seer](https://arxiv.org/abs/2412.15109)           |       -        |       -        |      -       |     87.7     |  -   |
+| _Dual-System_ |
+| [GR00T N1](https://arxiv.org/abs/2503.14734)       |     94.4       |     97.6       |     90.6     |     93.9     | 93.9 |
+| [DexVLA](https://arxiv.org/abs/2502.05855)         |     97.2       |     99.1       |     95.6     |      -       |  -   |
+| [Hume](https://arxiv.org/abs/2505.21432)           |     98.6       |     99.8       |     99.4     |     98.6     | **98.6** |
+
+
 ## ✅ Dual-System VLA
 
 ### Robot Manipulation
