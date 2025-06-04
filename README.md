@@ -30,12 +30,13 @@ This repository will be continuously updated, and we warmly welcome contribution
 | [OpenVLA](https://arxiv.org/abs/2406.09246)        |     84.7       |     88.4       |     79.2     |     53.7     | 76.5 |
 | [π<sub>0</sub>](https://arxiv.org/abs/2410.24164)             |     96.8       |     98.8       |     95.8     |     85.2     | 94.2 |
 | [OpenVLA-OFT](https://arxiv.org/abs/2502.19645)    |     97.6       |     98.4       |     97.9     |     94.5     | 97.1 |
+| [GR00T N1](https://arxiv.org/abs/2503.14734)       |     94.4       |     97.6       |     90.6     |     93.9     | 93.9 |
 | [UniVLA](https://www.arxiv.org/abs/2505.06111)         |     96.5       |     96.8       |     95.6     |     92.0     | 95.2 |
 | [Seer](https://arxiv.org/abs/2412.15109)           |       -        |       -        |      -       |     87.7     |  -   |
 | _Dual-System_ |
-| [GR00T N1](https://arxiv.org/abs/2503.14734)       |     94.4       |     97.6       |     90.6     |     93.9     | 93.9 |
 | [DexVLA](https://arxiv.org/abs/2502.05855)         |     97.2       |     99.1       |     95.6     |      -       |  -   |
 | [Hume](https://arxiv.org/abs/2505.21432)           |     98.6       |     99.8       |     99.4     |     98.6     | **98.6** |
+
 
 
 ## ✅ Dual-System VLA
