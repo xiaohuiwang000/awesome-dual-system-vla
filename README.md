@@ -19,9 +19,10 @@ This repository will be continuously updated, and we warmly welcome contribution
 | [Seer](https://arxiv.org/abs/2412.15109)      | 94.4 | 87.2 | 79.9 | 72.2 | 64.3 | 3.98  |
 | _Dual-System_ |
 | [LCB](https://arxiv.org/abs/2405.04798)           | 73.6 | 50.2 | 28.5 | 16.0 | 9.9  | 1.78   |
+| [RationalVLA](https://arxiv.org/abs/2506.10826)           | 74.3 | 58.3 | 42.3 | 30.0 | 20.7  | 2.26   |
 | [Robodual](https://arxiv.org/abs/2410.08001)      | 94.4 | 82.7 | 72.1 | 62.4 | 54.4 | 3.66   |
 | [OpenHelix](https://arxiv.org/abs/2505.03912)  | 97.1 | 91.4 | 82.8 | 72.6 | 64.1 | **4.08** |
-
+    
 ### [LIBERO](https://arxiv.org/abs/2306.03310)
 
 | Method         |LIBERO-Spatial | LIBERO-Object | LIBERO-Goal | LIBERO-Long | Avg. |
@@ -44,6 +45,8 @@ This repository will be continuously updated, and we warmly welcome contribution
 ### Robot Manipulation
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+| [**TriVLA: A Unified Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**](https://arxiv.org/abs/2507.01424) | arXiv | 2025-07-01| [Project](https://zhenyangliu.github.io/TriVLA/) | |
+| [**RationalVLA: A Rational Vision-Language-Action Model with Dual System**](https://arxiv.org/abs/2506.10826) | arXiv | 2025-06-12 | [Project](https://irpn-eai.github.io/rational_vla) | |
 | [**Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning**](https://arxiv.org/abs/2506.01953) | arXiv | 2025-06-02 | ![Star](https://img.shields.io/github/stars/CHEN-H01/Fast-in-Slow?style=social&label=Star) [Github](https://github.com/CHEN-H01/Fast-in-Slow) |  |
 | [**Hume: Introducing System-2 Thinking in Visual-Language-Action Model**](https://arxiv.org/abs/2505.21432) | arXiv | 2025-05-27 | ![Star](https://img.shields.io/github/stars/hume-vla/hume?style=social&label=Star) [Github](https://github.com/hume-vla/hume) | |
 | [**OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation**](https://arxiv.org/abs/2505.03912) | arXiv | 2025-05-06 | ![Star](https://img.shields.io/github/stars/OpenHelix-robot/OpenHelix?style=social&label=Star) [Github](https://github.com/OpenHelix-robot/OpenHelix) |  |
